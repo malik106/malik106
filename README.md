@@ -12,8 +12,14 @@ I WORK BEHIND THE SCENES TRANSFORM GARAGE STARTUPS INTO MULTI-MILLION DOLLAR ENT
 ![](https://github-readme-streak-stats.herokuapp.com/?user=malik106&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malik106&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Testimonails
+
+![Alt text](https://github.com/malik106/malik106/blob/master/Group%201.png "a title")
+
+### ✍️ Quote Of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=malik106&limit=5&theme=dark&combine_all_yearly_contributions=true)
